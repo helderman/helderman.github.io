@@ -3,6 +3,7 @@
 Welcome to my collection of hobby projects.
 
 * [Dolphins](https://helderman.github.io/dolphins/)
+* [Engulf](https://helderman.github.io/engulf/)
 * [Moiré Plasma Effect](https://helderman.github.io/moire-plasma-effect/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/)
 
