@@ -6,6 +6,7 @@ Welcome to my collection of hobby projects.
 * [Engulf](https://helderman.github.io/engulf/)
 * [Moiré Plasma Effect](https://helderman.github.io/moire-plasma-effect/)
 * [Cylindrically Scrolling Text](https://helderman.github.io/cylindrical-text/)
+* [Crazily Spinning Text](https://helderman.github.io/crazy-spinner/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/)
 
 Projects I still need to migrate to GitHub:
