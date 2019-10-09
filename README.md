@@ -7,6 +7,7 @@ Welcome to my collection of hobby projects.
 * [Moiré Plasma Effect](https://helderman.github.io/moire-plasma-effect/)
 * [Cylindrically Scrolling Text](https://helderman.github.io/cylindrical-text/)
 * [Crazily Spinning Text](https://helderman.github.io/crazy-spinner/)
+* [Bouncy Balls](https://helderman.github.io/bouncy-balls/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/)
 
 Projects I still need to migrate to GitHub:
