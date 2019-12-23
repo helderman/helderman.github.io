@@ -10,6 +10,7 @@ Welcome to my collection of hobby projects.
 * [Bouncy Balls](https://helderman.github.io/bouncy-balls/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/)
 * [Infinite Hash Maze](https://helderman.github.io/infinite-hash-maze/)
+* [Infinite Hash Terrain](https://helderman.github.io/infinite-hash-terrain/)
 
 Projects I still need to migrate to GitHub:
 
