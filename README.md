@@ -8,6 +8,7 @@ Welcome to my collection of hobby projects.
 * [Cylindrically Scrolling Text](https://helderman.github.io/cylindrical-text/)
 * [Crazily Spinning Text](https://helderman.github.io/crazy-spinner/)
 * [Bouncy Balls](https://helderman.github.io/bouncy-balls/)
+* [YARS - Yet Another Retro Shooter](https://helderman.github.io/yars/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/)
 * [Infinite Hash Maze](https://helderman.github.io/infinite-hash-maze/)
 * [Infinite Hash Terrain](https://helderman.github.io/infinite-hash-terrain/)
