@@ -5,6 +5,7 @@ Welcome to my collection of hobby projects.
 * [Dolphins](https://helderman.github.io/dolphins/)
 * [Engulf](https://helderman.github.io/engulf/)
 * [Moiré Plasma Effect](https://helderman.github.io/moire-plasma-effect/)
+* [Smoke Animation](https://helderman.github.io/blend-smoke/)
 * [Cylindrically Scrolling Text](https://helderman.github.io/cylindrical-text/)
 * [Crazily Spinning Text](https://helderman.github.io/crazy-spinner/)
 * [Bouncy Balls](https://helderman.github.io/bouncy-balls/)
