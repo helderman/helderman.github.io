@@ -14,6 +14,7 @@ Welcome to my collection of hobby projects.
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/)
 * [Infinite Hash Maze](https://helderman.github.io/infinite-hash-maze/)
 * [Infinite Hash Terrain](https://helderman.github.io/infinite-hash-terrain/)
+* [Sound Effects](https://helderman.github.io/sound-effects/)
 
 Projects I still need to migrate to GitHub:
 
